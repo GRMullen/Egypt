@@ -1,3 +1,3 @@
 # Egypt
 
-Remeber! Max > Min
+Game for Mobile Apps.
