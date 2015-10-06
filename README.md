@@ -1,3 +1,3 @@
 # Egypt
 
-Sup world!
+Remeber! Max > Min
